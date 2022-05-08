@@ -1,12 +1,16 @@
 # Eye-Protector:
 
 This is a program that targets on Microsoft Windows to protect your eyes.
+## Build
+### Build with Visual Studio
+[Download Visual Studio](https://amazingkenneth.github.io/docs/posts/tutorial/2022-02-19-install_CppCompiler.html#microsoft-visual-c)
 
+See the [Documents](https://docs.microsoft.com/zh-cn/cpp/build/get-started-linux-cmake) for installation and configuration.
 ## Install
 [Open the Latest Release](https://github.com/Amazingkenneth/Eye-Protector/releases/latest)
 
 Put `Eye-Protector-<version>.exe` in your StartUp folder: `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`.
-If setting the starting up option needs the system administrator privileges, try typing `taskschd.msc` in Win + R window.
+If setting the starting up option needs the system administrator privileges, try typing `taskschd.msc` in `Win + R ` pop-up window.
 
 Put both "img-light.png" and "img-dark.png" into your `%USERPROFILE%\Pictures\Saved Pictures\` folder.
 
