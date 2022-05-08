@@ -26,7 +26,7 @@ int main() {
   if (!WinToast::isCompatible()) {
     wcout << L"Error, your system do not support!" << endl;
   }
-  ShowWindow(GetForegroundWindow(), SW_HIDE); //似乎总有问题
+  //ShowWindow(GetForegroundWindow(), SW_HIDE); // For hiding the window
   WinToast::instance()->setAppName(L"Eye-Protector");
   const auto aumi = WinToast::configureAUMI(L"Yankang", L"Eye-Protector", L"Eye-Protector", L"v1.3");
   WinToast::instance()->setAppUserModelId(aumi);
