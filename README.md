@@ -1,6 +1,6 @@
-# Eye-Protector:
+# Eye-Protector
 
-This is a program that targets on Microsoft Windows to protect your eyes.
+- This is a program that targets on Microsoft Windows to protect your eyes.
 ## Build
 ### Build with Visual Studio
 [Download Visual Studio](https://amazingkenneth.github.io/docs/posts/tutorial/2022-02-19-install_CppCompiler.html#microsoft-visual-c)
