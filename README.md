@@ -10,7 +10,8 @@ See the [Documents](https://docs.microsoft.com/zh-cn/cpp/build/get-started-linux
 [Open the Latest Release](https://github.com/Amazingkenneth/Eye-Protector/releases/latest)
 
 Put `Eye-Protector-<version>.exe` in your StartUp folder: `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`.
-If setting the starting up option needs the system administrator privileges, try typing `taskschd.msc` in `Win + R ` pop-up window.
+
+If setting the StartUp option needs the system administrator privileges, try typing `taskschd.msc` in `Win + R` pop-up window.
 
 Put both "img-light.png" and "img-dark.png" into your `%USERPROFILE%\Pictures\Saved Pictures\` folder.
 
